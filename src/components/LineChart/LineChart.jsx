@@ -1,6 +1,5 @@
 import { LineChart as LChart, Line, XAxis, YAxis } from 'recharts';
 
-import PropTypes from 'prop-types';
 
 const LineChart = () => {
 
